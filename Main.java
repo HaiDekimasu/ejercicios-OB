@@ -4,6 +4,9 @@ public class Main {
         /* 4.Crear un objeto miCoche en el main y añadirle una puerta. */
         Coche miCoche = new Coche();
         miCoche.agregarP();
+        miCoche.agregarP();
+        miCoche.agregarP();
+        miCoche.agregarP();
 
         /* 5.Mostrar el número de puertas que tiene el objeto. */
         miCoche.mostrarP();
